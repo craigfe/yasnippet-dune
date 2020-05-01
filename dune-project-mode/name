@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: name
+# key: name
+# --
+(name $1)
+(source (github $2))
+(license $3)
+(authors "$4")
+(maintainers "$5")

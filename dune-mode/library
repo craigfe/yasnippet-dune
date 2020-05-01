@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: library
+# key: library
+# --
+(library
+ (name $1)
+ (public_name $2)
+ (libraries $3))
+

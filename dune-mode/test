@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: test
+# key: test
+# --
+(test
+ (name $1)
+ (package $2)
+ (libraries $3))

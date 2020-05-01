@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: env
+# key: env
+# --
+(env
+ ($1 $2))

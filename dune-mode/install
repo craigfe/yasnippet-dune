@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: install
+# key: install
+# --
+(install
+ (section $1)
+ (files ($2.exe as $3)))

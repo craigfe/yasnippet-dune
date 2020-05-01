@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: package
+# key: package
+# --
+(package
+ (name $1)
+ (synopsis "$2")
+ (description "$3")
+ (documentation "$4")
+ (depends $5))

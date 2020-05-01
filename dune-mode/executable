@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: executable
+# key: executable
+# --
+(executable
+ (name $1)
+ (public_name $2)
+ (package $3)
+ (libraries $4))

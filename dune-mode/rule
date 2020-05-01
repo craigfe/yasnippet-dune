@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: rule
+# key: rule
+# --
+(rule
+ (alias $1)
+ (deps $2)
+ (targets $3)
+ (action $4))
